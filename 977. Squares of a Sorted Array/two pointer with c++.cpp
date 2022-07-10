@@ -3,6 +3,7 @@
 using namespace std;
 
 int main(){
+    cout<<"molNa";
 
 }
 vector<int> sortedSquares(vector<int>& nums) {
