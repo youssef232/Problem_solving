@@ -7,3 +7,4 @@
 ### 1. loop through the array check if it in the hash table add one if it not, add it to the hash table.
 ### 2. loop again through the array and check if this char appeared once return its index 
 ### 3. at the end return -1 if no char appeared once
+### O(n)
